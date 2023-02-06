@@ -4,7 +4,7 @@
 
 Find the first tweet and the latest tweet.
 
-const array = [
+``` const array = [
     {
         tweet: "#100DaysOfCode",
         date: 2021
@@ -18,12 +18,13 @@ const array = [
         date: 2023
     }
 ];
+```
 
-+ If there are a thousand tweets, finding the first and the latest tweets might take a lot of time which costs a lot of money as well.
++ If there are a thousand tweets, finding the first and the latest tweets might take a lot of time, which costs a lot of money as well.
 
-+ Solution? 
-    * Store this information in a better format or do something different with our program in order to avoid something that might be inefficient or expensive for the company. 
-    * This is thinking scalable code = long term 
++ Solution?
+* Store this information in a better format or do something different with our program in order to avoid something that might be inefficient or expensive for the company.
+* This is thinking scalable code = long term
 
 ---
 
