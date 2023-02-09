@@ -1,4 +1,4 @@
-var twoSum = function (nums, target) {
+let twoSum = function (nums, target) {
   let sum = 0;
   let array = [];
 
