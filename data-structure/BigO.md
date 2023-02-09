@@ -41,3 +41,7 @@ What is the Big O notation of this?
 
 
 + Start looking at space and time or things that are valuable to us as engineers as we don't have infinite amount of resources. We have to be careful of when we code, how we use up these resources. 
+
+### Summary
+
+Big O is used to describe how efficiently we can run our code. It saves companies a lot of money if people they hire know how to write efficient code. We are always looking at the worst case scenario. We want to be pessimistic and say, "What is the worst case scenario here with our code?" so we can be prepared when the time comes.
