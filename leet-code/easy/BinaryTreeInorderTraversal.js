@@ -1,6 +1,3 @@
-// Given the root of a binary tree, return the inorder traversal of its nodes' values.
-// left -> node -> right
-
 function inorderTraversal(root) {
   let stack = [];
   let result = [];
