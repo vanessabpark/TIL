@@ -33,7 +33,7 @@ human.key1 = "value1";
 human["key2"] = "value2";
 ```
 
-### Object 
+### Object methods
 #### 1. assign()
 
 ```
