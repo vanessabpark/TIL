@@ -56,4 +56,23 @@ console.log(mergedHobbies)
 // correct example
 const mergedHobbies2 = [...hobbies, ...newHobbies];
 console.log(mergedHobbies2)
+
+const user = {
+  name: "Mia",
+  age: 33
+};
+const extendedUser = {
+  isAdmin: true,
+  ...user
+}
+console.log(extendedUser);
+```
+
+#### for of 
+```
+const colors = ["purple", "blue"];
+
+for (const color of colors) {
+  console.log(color)
+}
 ```
